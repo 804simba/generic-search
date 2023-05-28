@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.simba</groupId>
-    <artifactId>DynamicSearch</artifactId>
+    <artifactId>dynamic-search</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>DynamicSearch</name>
     <description>DynamicSearch</description>

@@ -15,7 +15,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <modules>
-        <module>DynamicSearch</module>
+        <module>dynamic-search</module>
+        <module>advanced-search-with-specification</module>
     </modules>
 
 </project>
